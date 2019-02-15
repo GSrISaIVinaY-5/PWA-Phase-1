@@ -1,0 +1,51 @@
+PHASE-1.1:
+types of css:
+inline
+internal
+external
+
+
+selectors:
+universal
+id
+class
+
+<hr> for horizontal line
+border=2
+
+ordered list <ol> within <list>
+
+PHASE-1.2:
+ Topics:
+	structure of json(Java Script Object Notation){key,value}
+	AJAX framework(Asyncronous JavaScript XML(XML+JS))
+	dom mamupulations(Documnet Object Model)
+	javascript
+
+
+
+GitHub Project Push,Commands:
+1.git clone <url>
+2.git status
+3.git add --all
+4.git status
+5.git commit -m
+6.git push origin master -u
+
+
+
+
+
+
+
+
+
+client---->Server
+	1.connection
+	2.request initialised
+	3.request accomplished
+	4.Rewuest is given to server
+	5.Client program
+	6.temination
+
+
